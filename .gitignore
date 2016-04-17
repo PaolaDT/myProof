@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+DjangoGirls
+db.sqlite3
+.DS_Store
+genropy
+Musica
+Pubblici
+Scrivania
+Documenti
+Immagini	
+Modelli
+Scaricati 
+Video
