@@ -13,4 +13,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/pulce/urls.py" added="2016-04-17T12:40:13Z" modified="2016-04-17T12:40:13Z" visited="2016-04-17T12:40:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="medit" exec="&apos;medit %u&apos;" modified="2016-04-17T12:40:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pulce/blog/templates/blog/post_list.html" added="2016-04-17T12:56:58Z" modified="2016-04-17T12:56:58Z" visited="2016-04-17T12:56:59.088857Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="medit" exec="&apos;medit %u&apos;" modified="2016-04-17T12:56:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

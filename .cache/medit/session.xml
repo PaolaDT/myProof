@@ -2,7 +2,8 @@
 <session version="1.0">
  <editor version="2.0">
   <window active="TRUE">
-   <document encoding="UTF-8" active="TRUE">file:///home/pulce/.gitignore</document>
+   <document encoding="UTF-8">file:///home/pulce/.gitignore</document>
+   <document encoding="UTF-8" active="TRUE">file:///home/pulce/mysite/urls.py</document>
   </window>
  </editor>
 </session>

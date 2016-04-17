@@ -3,6 +3,18 @@
   <item uri="file:///home/pulce/.gitignore">
     <data key="line" value="14"/>
   </item>
+  <item uri="file:///home/pulce/mysite/urls.py">
+    <data key="line" value="7"/>
+  </item>
+  <item uri="file:///home/pulce/urls.py">
+    <data key="line" value="6"/>
+  </item>
+  <item uri="file:///home/pulce/blog/views.py">
+    <data key="line" value="5"/>
+  </item>
+  <item uri="file:///home/pulce/blog/templates/blog/post_list.html">
+    <data key="line" value="3"/>
+  </item>
   <item uri="file:///home/pulce/mysite/settings.py">
     <data key="line" value="43"/>
   </item>

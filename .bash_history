@@ -31,3 +31,24 @@ cd genropy/
 ls
 cd
 exit
+sudo apt-get install git
+git init
+git config global user.name PaolaDT
+git config global user.name "PaolaDT"
+cd .git/
+git config global user.name "PaolaDT"
+git config --global user.name "PaolaDT"
+git config --global user.email "paola.ditomaso@gmail.it"
+cd ..
+ls
+git status
+clear
+git add -A
+git commit -m "la mia prima app/commit"
+clear
+git remote add origin https://github.com/PaolaDT/myProof.git
+git pull -u origin master
+git push -u origin master
+ninja
+sudo apt-get install ninja-build
+sudo apt-get install ninja

@@ -168,3 +168,67 @@ Openbox-Message: La chiave "XF86Terminal" non esiste sullo schermo
 ** (lxpanel:826): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
 
 (lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(process:2333): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(process:3677): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+Openbox-Message: La chiave "XF86Terminal" non esiste sullo schermo
+
+** (lxpanel:826): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+** (lxpanel:826): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+** (lxpanel:826): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+** (lxpanel:826): WARNING **: lxpanel : X error: BadWindow (invalid Window parameter)
+
+(medit:4012): Moo-WARNING **: in file moopython/moopython-builtin.c, line 66, function _moo_python_builtin_init: could not initialize _moo module
+ImportError: No module named gobject
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(pcmanfm:829): GLib-CRITICAL **: Source ID 1529 was not found when attempting to remove it
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE
+
+(lxpanel:826): Wnck-WARNING **: Unhandled action type _OB_WM_ACTION_UNDECORATE

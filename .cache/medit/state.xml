@@ -13,6 +13,10 @@
     </encodings>
   </Editor>
   <Prefs>
+    <item name="Editor/dialogs/open/height" type="int">510</item>
+    <item name="Editor/dialogs/open/width" type="int">868</item>
+    <item name="Editor/dialogs/open/x" type="int">0</item>
+    <item name="Editor/dialogs/open/y" type="int">36</item>
     <item name="Editor/last_dir" type="string">file:///home/pulce</item>
     <item name="Editor/search_flags" type="int">130</item>
     <item name="Editor/window/height" type="int">546</item>
